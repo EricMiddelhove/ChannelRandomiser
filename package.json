@@ -1,0 +1,11 @@
+{
+    "name": "ChannelRandomiser",
+    "version": "1.0.0",
+    "description": "A bot that devides people ... or something like that :D",
+    "main": "bot.js",
+    "author": "Eric Middelhove",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.3.3"
+    }
+}
